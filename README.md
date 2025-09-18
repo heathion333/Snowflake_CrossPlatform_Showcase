@@ -1,0 +1,1 @@
+# Snowflake_CrossPlatform_Showcase-inventory_analysis
